@@ -1,0 +1,19 @@
+{
+  "name": "slither-vr-realtime-server-ver-node-js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igara/slither-vr-realtime-server-ver-node-js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ws": "^1.1.1"
+  }
+}
